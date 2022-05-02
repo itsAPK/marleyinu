@@ -13,6 +13,7 @@
     </h2>
    <div class=" items-center justify-between px-10 py-5 mt-5 lg:px-32 lg:py-10 columns-xl">
      <p class="text-justify text-amber-400 lg:text-2xl font-lexend  uppercase mt-5 lg:mt-16 ">Introduction</p>
+     <div class="lg:columns-2">
     <div class="inline-flex">
      <p class=" text-justify text-neutral-100 text-md font-raleway font-black uppercase mt-4 " >
       Marley Inu $minu is built by a strong team of crypto experts. We aim to build a sustainable, long term memetoken bringing innovative ideas in cryptospace. In addition we aim to build a complete ecosystem with our utilities and this can be accomplished by a connected and strong community.
@@ -21,7 +22,7 @@
     <div class="inline-flex">
      <img alt="Marley Inu" src="../assets/dollar.png" width="250" class=" animate__animated animate__fadeInRight animate__fast mt-2 lg:mt-0 ">
     </div>
-  </div>
+  </div></div>
   </section>
   <Tokenomics/>
   <Roadmap/>
