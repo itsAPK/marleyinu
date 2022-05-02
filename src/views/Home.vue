@@ -1,10 +1,10 @@
 <template>
 <NavBar/>
   <section id='home'>
-    <div  class="flex items-center justify-center m-16" >
-           <img alt="Marley Inu" src="../assets/logo.png" class=" animate__animated animate__fadeInDown animate__fast">
+    <div  class="flex items-center justify-center m-5" >
+           <img alt="Marley Inu" src="../assets/logo.png" class="lg:w-1/4 w-fit animate__animated animate__fadeInDown animate__fast">
     </div>
-    <div  class="flex items-center justify-center m-7" >
+    <div  class="flex items-center justify-center m-1" >
         <h1 class="inline-flex text-6xl sm:text-5xl text-amber-400  font-extrabold font-rubik animate__animated animate__fadeInLeft animate__fast uppercase ">Marley&nbsp; </h1>
         <h1 class="inline-flex text-6xl sm:text-5xl text-amber-400  font-bold font-rubik animate__animated animate__fadeInRight animate__fast uppercase ">Inu</h1>
     </div>
