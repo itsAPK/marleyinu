@@ -2,7 +2,7 @@
 <NavBar/>
   <section id='home'>
     <div  class="flex items-center justify-center m-16" >
-           <img alt="Marley Inu" src="../assets/logo.png" class="lg:w-1/5 w-3/4 animate__animated animate__fadeInDown animate__fast">
+           <img alt="Marley Inu" src="../assets/logo.png" class="lg:w-1/5 w-5/6 animate__animated animate__fadeInDown animate__fast">
     </div>
     <div  class="flex items-center justify-center m-7" >
         <h1 class="inline-flex text-6xl text-amber-400  font-extrabold font-rubik animate__animated animate__fadeInLeft animate__fast uppercase ">Marley&nbsp; </h1>
@@ -15,7 +15,7 @@
      <p class="text-justify text-amber-400 lg:text-2xl font-lexend  uppercase mt-5 lg:mt-16 ">Introduction</p>
      <div class="lg:columns-2">
     <div class="inline-flex">
-     <p class=" text-justify text-neutral-100 text-md font-raleway font-black uppercase mt-4 " >
+     <p class=" text-neutral-100 text-md font-raleway font-black uppercase mt-4 " >
       Marley Inu $minu is built by a strong team of crypto experts. We aim to build a sustainable, long term memetoken bringing innovative ideas in the  cryptospace. In addition, we aim to build a complete ecosystem with our utilities and this can be accomplished by a strong and connected community.
     </p>
     </div>
