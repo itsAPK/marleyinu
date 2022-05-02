@@ -10,8 +10,8 @@
   </div>
   <main class="timeline-wrapper">
     <div class="svg-timeline">
-      <svg width="15px" height="2080.7px" viewBox="0 0 8 3290.7">
-        <line id="timeline" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-miterlimit="10" x1="4" y1="0" x2="4" y2="3290.7"/>
+     <svg width="8px" height="2490.7px" viewBox="0 0 8 2490.7">
+        <line id="timeline" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-miterlimit="10" x1="4" y1="0" x2="4" y2="2090.7"/>
       </svg>
     </div>
     <ol class="timeline clearfix">
@@ -62,10 +62,12 @@
               <p>-MPAD </p>
               <p>-Lambo Giveaway </p>
               <p>-MPet Brand</p>
+              <p class="text-md text-center mt-6 uppercase font-lexend">Coming Soon!!!</p>
         </div></div>
     </li>
     </ol>
   </main>
+
 </section>
 </template>
 
@@ -187,7 +189,6 @@ html {
 .poster {
   height: 100vh;
   width: 100%;
-  background-size: cover;
   background-position: center center;
   background-image: url("http://codepen.vincebrown.me/assets/images/snow-mountains.jpg");
   // .poster__heading
@@ -233,19 +234,8 @@ html {
 
 .timeline-wrapper{
   position: relative;
-   padding-bottom:25em;
+   padding-bottom:0.5em;
   background:  rgba(255,255,255,0);
-  &:after{
-    content:'';
-    display:block;
-    background-image: url('http://codepen.vincebrown.me/assets/images/white-mountains.jpg');
-    height:500px;
-    width: 100%;
-    position: absolute;
-    background-position:25% center;
-    z-index:-10;
-    bottom:0;
-  }
 }
 .svg-timeline {
   position: absolute;

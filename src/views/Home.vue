@@ -2,7 +2,7 @@
 <NavBar/>
   <section id='home'>
     <div  class="flex items-center justify-center m-16" >
-           <img alt="Marley Inu" src="../assets/logo.png" class="lg:w-1/5 w-5/6 animate__animated animate__fadeInDown animate__fast">
+           <img alt="Marley Inu" src="../assets/logo.png" class=" animate__animated animate__fadeInDown animate__fast">
     </div>
     <div  class="flex items-center justify-center m-7" >
         <h1 class="inline-flex text-6xl text-amber-400  font-extrabold font-rubik animate__animated animate__fadeInLeft animate__fast uppercase ">Marley&nbsp; </h1>
