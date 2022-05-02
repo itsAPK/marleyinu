@@ -2,7 +2,7 @@
 // eslint-disable-next-line vue/multi-word-component-names
 <template>
   <section id="tokenomics" style="background-color: #de9f00">
-  <div class="lg:columns-2  container  items-center justify-between p-10">
+  <div class="lg:columns-2  container  items-center justify-between lg:p-10">
     <div class="inline-flex  col-span-3 flex-col m-1">
       <h1 class="text-6xl font-barlow uppercase font-extrabold text-gray-800 pt-16">Tokenomics</h1>
       <h2 class="text-2xl font-lexend text-amber-800 mt-9 mb-4">TAXES THAT WORK FOR YOU</h2>
