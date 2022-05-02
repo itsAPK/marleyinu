@@ -5,8 +5,8 @@
            <img alt="Marley Inu" src="../assets/logo.png" class=" animate__animated animate__fadeInDown animate__fast">
     </div>
     <div  class="flex items-center justify-center m-7" >
-        <h1 class="inline-flex text-6xl text-amber-400  font-extrabold font-rubik animate__animated animate__fadeInLeft animate__fast uppercase ">Marley&nbsp; </h1>
-        <h1 class="inline-flex text-6xl text-amber-400  font-bold font-rubik animate__animated animate__fadeInRight animate__fast uppercase ">Inu</h1>
+        <h1 class="inline-flex text-6xl sm:text-5xl text-amber-400  font-extrabold font-rubik animate__animated animate__fadeInLeft animate__fast uppercase ">Marley&nbsp; </h1>
+        <h1 class="inline-flex text-6xl sm:text-5xl text-amber-400  font-bold font-rubik animate__animated animate__fadeInRight animate__fast uppercase ">Inu</h1>
     </div>
     <h2 class="text-yellow-600 font-black animate__animated  animate__fadeInUp animate__fast uppercase font-electrolize ">
       A decentralized deflationary memetoken
