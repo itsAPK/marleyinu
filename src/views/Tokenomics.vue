@@ -7,7 +7,7 @@
       <h1 class="text-6xl font-barlow uppercase font-extrabold text-gray-800 pt-16">Tokenomics</h1>
       <h2 class="text-2xl font-lexend text-amber-800 mt-9 mb-4">TAXES THAT WORK FOR YOU</h2>
       <p class="lg:text-lg text-base font-electolize font-extrabold  text-gray-800 lg:text-justify lg:mr-7">
-Our taxes are splitted into marketing funds 5 % which will be used for some aggressive marketing , 3% of taxes will be added into LP and 2% of taxes will go for auto-burn.
+Our taxes are split in Marketing (5%), LP (3%) and Burn (2%).
 
 </p>
     </div>

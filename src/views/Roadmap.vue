@@ -19,49 +19,49 @@
         <div class="bg-amber-300 rounded-lg" style="background-color:#de9f00">
         <h3 class="text-4xl font-barlow text-amber-800 p-10">PHASE I</h3>
         <div class="block text-justify text-md text-gray-900 font-lexend400 font-extrabold px-16 pt-5 py-12">
-              <p>- STEALTH LAUNCH </p>
-              <p>- Website Development </p>
-              <p>- Community building</p>
-              <p>- MARKETING compaigns</p>
+              <p>-STEALTH LAUNCH </p>
+              <p>-Website Development </p>
+              <p>-Community building</p>
+              <p>-MARKETING compaigns</p>
         </div></div>
       </li>
       <li class="timeline__item right">
          <div class="bg-amber-300 rounded-lg" style="background-color:#de9f00">
         <h3 class="text-4xl font-barlow text-amber-800 p-10">PHASE II</h3>
         <div class="block text-justify text-md text-gray-900 font-lexend400 font-extrabold px-16 pt-5 py-12">
-              <p>- Giveaways </p>
-              <p>- First geneneration NFT Sale</p>
-              <p>- Exchange listing</p>
-              <p>- Audit + KYC</p>
+              <p>-Giveaways </p>
+              <p>-First geneneration NFT Sale</p>
+              <p>-Exchange listing</p>
+              <p>-Audit + KYC</p>
         </div></div>
       </li>
       <li class="timeline__item">
         <div class="bg-amber-300 rounded-lg" style="background-color:#de9f00">
         <h3 class="text-4xl font-barlow text-amber-800 p-10">PHASE III</h3>
         <div class="block text-justify text-md text-gray-900 font-lexend400 font-extrabold px-16 pt-5 py-12">
-              <p>- Bigger MARKETING </p>
-              <p>- Second geneneration NFT Sale</p>
-              <p>- MARLEY Swap</p>
-              <p>- Charity donation</p>
+              <p>-Bigger MARKETING </p>
+              <p>-Second geneneration NFT Sale</p>
+              <p>-MARLEY Swap</p>
+              <p>-Charity donation</p>
         </div></div>
     </li>
     <li class="timeline__item right">
         <div class="bg-amber-300 rounded-lg" style="background-color:#de9f00">
         <h3 class="text-4xl font-barlow text-amber-800 p-10">PHASE IV</h3>
         <div class="block text-justify text-md text-gray-900 font-lexend400 font-extrabold px-16 pt-5 py-12">
-              <p>- MDAO </p>
-              <p>- CRO BRIDGE </p>
-              <p>- FIFA Themed NFTs</p>
-              <p>- Certik Audit</p>
+              <p>-MDAO </p>
+              <p>-CRO BRIDGE </p>
+              <p>-FIFA Themed NFTs</p>
+              <p>-Certik Audit</p>
         </div></div>
       </li>
     <li class="timeline__item">
         <div class="bg-amber-300 rounded-lg" style="background-color:#de9f00">
         <h3 class="text-4xl font-barlow text-amber-800 p-10">PHASE V</h3>
         <div class="block text-justify text-md text-gray-900 font-lexend400 font-extrabold px-16 pt-5 py-12">
-              <p>- MPAD </p>
-              <p>- Lambo Giveaway </p>
-              <p>- MPet Brand</p>
+              <p>-MPAD </p>
+              <p>-Lambo Giveaway </p>
+              <p>-MPet Brand</p>
         </div></div>
     </li>
     </ol>
