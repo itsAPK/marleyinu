@@ -6,7 +6,7 @@
         <a href="#" class="lg:block sm:inline-flex text-slate-200 hover:text-amber-400  px-3 py-3    sm:border-none">Home</a>
         <a href="#tokenomics" class="lg:block sm:inline-flex text-slate-200  hover:text-amber-400  px-3 py-3   sm:border-none">tokenomics</a>
         <a href="#roadmap" class="lg:block sm:inline-flex text-slate-200  hover:text-amber-400  px-3 py-3   sm:border-none">roadmap</a>
-        <a href="#whitepaper" class="lg:block sm:inline-flex text-slate-200  hover:text-amber-400  px-3 py-3   sm:border-none">whitepaper</a>
+        <a href="/whitepaper" class="lg:block sm:inline-flex text-slate-200  hover:text-amber-400  px-3 py-3   sm:border-none">whitepaper</a>
         <a href="https://t.me/MarleyInuCommunity" class="lg:block sm:inline-flex text-sky-500  hover:text-sky-400  px-3 py-3  lg:text-base   text-xl  sm:border-none">
          <i class="fa-brands fa-telegram"></i>
         </a>

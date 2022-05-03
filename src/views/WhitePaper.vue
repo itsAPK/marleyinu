@@ -1,5 +1,5 @@
 <template>
-<div  class="flex items-center justify-center m-5" >
+<div  class="flex items-center justify-center m-5"  >
            <img alt="Marley Inu" src="../assets/dollar.png" class="lg:w-1/4 w-fit animate__animated animate__fadeInDown animate__fast">
     </div>
     <div  class="flex items-center justify-center m-1" >
