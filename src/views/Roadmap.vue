@@ -22,7 +22,7 @@
               <p>-Stealth Launch </p>
               <p>-Website Development </p>
               <p>-Community building</p>
-              <p>-MARKETING compaigns</p>
+              <p>-Marketing campaigns</p>
         </div></div>
       </li>
       <li class="timeline__item right">
@@ -50,7 +50,7 @@
         <h3 class="text-4xl font-barlow text-amber-800 p-10">PHASE IV</h3>
         <div class="block text-justify text-md text-gray-900 font-lexend400 font-extrabold px-16 pt-5 py-12">
               <p>-MDAO </p>
-              <p>-CRO BRIDGE </p>
+              <p>-CRO Bridge </p>
               <p>-FIFA Themed NFTs</p>
               <p>-Certik Audit</p>
         </div></div>
