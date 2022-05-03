@@ -5,7 +5,7 @@ module.exports = {
   ],
   theme: {
     extend: {
-
+      opacity: ['disabled'],
       fontFamily: {
         raleway: ['Raleway', 'Arial', 'sans-serif'],
         rubik: ['Marcellus SC', 'serif'],
