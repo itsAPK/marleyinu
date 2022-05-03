@@ -19,7 +19,7 @@
         <div class="bg-amber-300 rounded-lg" style="background-color:#de9f00">
         <h3 class="text-4xl font-barlow text-amber-800 p-10">PHASE I</h3>
         <div class="block text-justify text-md text-gray-900 font-lexend400 font-extrabold px-16 pt-5 py-12">
-              <p>-STEALTH LAUNCH </p>
+              <p>-Stealth Launch </p>
               <p>-Website Development </p>
               <p>-Community building</p>
               <p>-MARKETING compaigns</p>
@@ -39,9 +39,9 @@
         <div class="bg-amber-300 rounded-lg" style="background-color:#de9f00">
         <h3 class="text-4xl font-barlow text-amber-800 p-10">PHASE III</h3>
         <div class="block text-justify text-md text-gray-900 font-lexend400 font-extrabold px-16 pt-5 py-12">
-              <p>-Bigger MARKETING </p>
+              <p>-Bigger Marketing </p>
               <p>-Second geneneration NFT Sale</p>
-              <p>-MARLEY Swap</p>
+              <p>-Marley Swap</p>
               <p>-Charity donation</p>
         </div></div>
     </li>
