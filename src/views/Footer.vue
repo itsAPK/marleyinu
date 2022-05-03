@@ -9,7 +9,7 @@
       A decentralized deflationary memetoken
     </h2>
         <div class="flex justify-center">
-          <a href="" class="lg:block sm:inline-flex text-sky-500  hover:text-sky-400  px-3 py-3  lg:text-base   text-xl  sm:border-none">
+          <a href="https://t.me/MarleyInuCommunity" class="lg:block sm:inline-flex text-sky-500  hover:text-sky-400  px-3 py-3  lg:text-base   text-xl  sm:border-none">
          <i class="fa-brands fa-telegram"></i>
         </a>
         <a href="https://twitter.com/MarleyInu?t=c4ZdJuva8fck_ff44ScmMw&s=09" class="lg:block sm:inline-flex text-sky-500  hover:text-sky-400  px-3 py-3 lg:text-base text-xl  sm:border-none">
