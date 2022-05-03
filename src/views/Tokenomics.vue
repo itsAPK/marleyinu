@@ -14,7 +14,7 @@ Our taxes are split in Marketing (5%), LP (3%) and Burn (2%).
      <div class="lg:inline-flex col-span-2 lg:flex-col  mt-10 py-12">
        <h2 class=" text-3xl font-lexend text-amber-800  uppercase">Total Supply</h2>
        <p class=" text-xl lg:text-2xl font-lexend font-extrabold text-gray-800 mt-4 ml-1">
- 1,000,000,0000
+ 100,000,000,000
 </p>
  <p class=" text-base font-rubik font-extrabold text-gray-800 mt-1">
 Monstrous Supply Gives us a Vision of killing More Zeros

@@ -13,5 +13,5 @@ git init
 
 git add -A
 git commit -m 'deploy'
-git push -f https://github.com/itsAPK/Marley-Inu.git master:deploy
+git push -f https://github.com/itsAPK/marleyinu.git master:deploy
 cd -

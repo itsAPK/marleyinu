@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
 import Home from '../views/Home.vue'
-import Tokenomics from '../views/Tokenomics.vue'
+import WhitePaper from '../views/WhitePaper.vue'
 
 const routes: Array<RouteRecordRaw> = [
   {
@@ -9,9 +9,9 @@ const routes: Array<RouteRecordRaw> = [
     component: Home
   },
   {
-    path: '/#tokenomics',
-    name: 'tokenomcis',
-    component: Tokenomics
+    path: '/whitepaper',
+    name: 'whitepaper',
+    component: WhitePaper
   }
   /* {
     path: '/about',
