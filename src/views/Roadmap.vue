@@ -234,7 +234,7 @@ html {
 
 .timeline-wrapper{
   position: relative;
-   padding-bottom:0.5em;
+   padding-bottom:1.5em;
   background:  rgba(255,255,255,0);
 }
 .svg-timeline {

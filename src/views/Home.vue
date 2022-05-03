@@ -26,6 +26,7 @@
   </section>
   <Tokenomics/>
   <Roadmap/>
+  <Footer/>
 </template>
 
 <script lang="ts">
@@ -35,13 +36,15 @@ import { defineComponent } from 'vue'
 import NavBar from '@/components/NavBar.vue'
 import Tokenomics from './Tokenomics.vue'
 import Roadmap from './Roadmap.vue'
+import Footer from './Footer.vue'
 export default defineComponent({
   // eslint-disable-next-line vue/multi-word-component-names
   name: 'Home',
   components: {
     NavBar,
     Tokenomics,
-    Roadmap
+    Roadmap,
+    Footer
   }
 })
 </script>
