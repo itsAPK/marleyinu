@@ -20,7 +20,9 @@
     </div>
      <div class="lg:flex items-center justify-between py-10 m-2">
     <div class="inline-flex">
-          <button class="h-10 px-6 mr-8 text-yellow-500 text-xl font-lexend400 transition-colors duration-150 border border-yellow-500 rounded-sm focus:shadow-outline hover:bg-yellow-500 hover:text-black"><a href="https://www.dextools.io/app/bsc/pair-explorer/0xAD3d2c978eA1a24a3D895001e4E8db3e04A07401">CHART</a></button>
+          <button class="h-10 px-6 mr-8 text-yellow-500 text-xl font-lexend400 transition-colors duration-150 border border-yellow-500 rounded-sm focus:shadow-outline hover:bg-yellow-500 hover:text-black">
+            <a href="https://poocoin.app/tokens/0x1fafbfb8d51c8dbb66b5b59daecce14b82f5b0d9">CHART</a>
+          </button>
             <button class="h-10 px-8 text-yellow-500  text-xl font-lexend400 transition-colors duration-150 border border-yellow-500 rounded-sm focus:shadow-outline hover:bg-yellow-500 hover:text-black"><a href="https://pancakeswap.finance/swap?outputCurrency=0x1FAFBFb8d51c8Dbb66B5b59DaeCcE14b82F5b0d9">BUY</a></button>
     </div>
   </div></div>
